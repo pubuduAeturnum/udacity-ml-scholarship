@@ -53,5 +53,5 @@ Do to the exploratary data analysis to get more insight about the provided datas
 With the use of autogluon we can train different ML algorithms and then we are able to get the best perform ML algorithm for the training dataset which reduce lot of workload that MLE spend when selecting an best ML algorithms to train their dataset which provide better performance. In this project bike sharing demand kaggle competetion has been done using the autogluon with inital row dataset, adding new features and then modifying hyperparameters of the autogluon and able to achieve kaggle scores as follow;
 * Initial - 1.79267
 * Add_features - 1.75515
-* Modifying hyperparameters - 1.86412
+* Modifying hyperparameters - 1.86412;
 With modifying hyperparameters with adding new features the Kaggle score has significant improvement.
