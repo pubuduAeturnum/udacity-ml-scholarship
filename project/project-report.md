@@ -8,6 +8,8 @@ To submit a result in to kaggle using predictor we need to predict the count usi
 
 ### What was the top ranked model that performed?
 WeightedEnsemble_L3
+![image](https://user-images.githubusercontent.com/98076289/211221532-d66af8ff-38af-42d5-ba8c-1fed984ccbb2.png)
+
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
@@ -22,7 +24,7 @@ test["day"] = test["datetime"].dt.day
 ```
 
 ### How much better did your model preform after adding additional features and why do you think that is?
-When add the new features to the dataset the r2 value is increased from 0.914241 to 0.0.914439. Therefore, model performance has been increased with the test dataset
+When add the new features to the dataset the r2 value is increased from 0.914241 to 0.0.914439. Therefore, model performance has been increased with the test dataset. The added additional features into the dataframe assits to catergorize data into further catergories which will assists to produce good best fitted lines associated with the data.
 
 ## Hyper parameter tuning
 ### How much better did your model preform after trying different hyper parameters?
