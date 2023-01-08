@@ -54,4 +54,5 @@ With the use of autogluon we can train different ML algorithms and then we are a
 * Initial - 1.79267
 * Add_features - 1.75515
 * Modifying hyperparameters - 1.86412;
+
 With modifying hyperparameters with adding new features the Kaggle score has significant improvement.
