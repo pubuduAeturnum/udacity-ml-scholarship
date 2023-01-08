@@ -26,7 +26,7 @@ When add the new features to the dataset the r2 value is increased from 0.914241
 
 ## Hyper parameter tuning
 ### How much better did your model preform after trying different hyper parameters?
-According to the kaggle score the hyperparameter model with num_bag_folds=0, num_bag_sets=20 and num_stack_levels=0 has improved the intial raw submission score 1.80775 to 1.86412
+According to the kaggle score the hyperparameter model with num_bag_folds=0, num_bag_sets=20 and num_stack_levels=0 has improved the intial raw submission score 1.79267 to 1.86412
 
 ### If you were given more time with this dataset, where do you think you would spend more time?
 Do to the exploratary data analysis to get more insight about the provided dataset and improve it by catergorizing  data and adding more features using current features.
